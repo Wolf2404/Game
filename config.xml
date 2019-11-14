@@ -23,7 +23,7 @@
 
 <preference value="true" name="fullscreen"/>
 
-	<plugin name="cordova-plugin-x-socialsharing" source="npm" />
+	<plugin name="cordova-plugin-x-socialsharing" />
 
 
 
